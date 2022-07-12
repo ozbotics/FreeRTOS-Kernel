@@ -7,7 +7,7 @@
     {
         "type": "git",
         "url": "https://github.com/ozbotics/FreeRTOS-Kernel.git",
-        "branch": "master"
+        "branch": "main"
     },
     "authors":
     {
